@@ -59,8 +59,9 @@ def main():
     current_datetime = datetime.now().strftime("%m-%d-%y(%H-%M-%S)")
     parsed_dictionary = parse(dictionary, folder_name, parse_line_number)
     operators_dict = calculate_percentage(parsed_dictionary[0], parsed_dictionary[1])
+    sorted_dict = sorted(operators_dict.items(), key=lambda x: x[1], reverse=True)
 
-    write_json(operators_dict, current_datetime)
+    write_json(sorted_dict, current_datetime)
 
 
 if __name__ == '__main__':
