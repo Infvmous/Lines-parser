@@ -1,0 +1,938 @@
+{
+    "Vodafone Limited": {
+        "Total_numbers": [
+            574,
+            "3.27%"
+        ]
+    },
+    "Virgin Media": {
+        "Total_numbers": [
+            3592,
+            "20.48%"
+        ]
+    },
+    "Three": {
+        "Total_numbers": [
+            1122,
+            "6.4%"
+        ]
+    },
+    "BT": {
+        "Total_numbers": [
+            2268,
+            "12.93%"
+        ]
+    },
+    "Sky Broadband": {
+        "Total_numbers": [
+            3995,
+            "22.77%"
+        ]
+    },
+    "Telefonica O2 UK": {
+        "Total_numbers": [
+            1481,
+            "8.44%"
+        ]
+    },
+    "TalkTalk": {
+        "Total_numbers": [
+            2051,
+            "11.69%"
+        ]
+    },
+    "Plusnet": {
+        "Total_numbers": [
+            262,
+            "1.49%"
+        ]
+    },
+    "Metronet (UK) Limited": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "EE Mobile": {
+        "Total_numbers": [
+            758,
+            "4.32%"
+        ]
+    },
+    "Privax Ltd.": {
+        "Total_numbers": [
+            7,
+            "0.04%"
+        ]
+    },
+    "EE High Speed Internet": {
+        "Total_numbers": [
+            428,
+            "2.44%"
+        ]
+    },
+    "Vodafone Broadband": {
+        "Total_numbers": [
+            138,
+            "0.79%"
+        ]
+    },
+    "PCCW Global Networks (UK) PLC": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Daisy Communications Ltd": {
+        "Total_numbers": [
+            40,
+            "0.23%"
+        ]
+    },
+    "IFNL": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Topline LLC": {
+        "Total_numbers": [
+            57,
+            "0.32%"
+        ]
+    },
+    "The Cloud Networks Limited": {
+        "Total_numbers": [
+            22,
+            "0.13%"
+        ]
+    },
+    "BT Americas": {
+        "Total_numbers": [
+            26,
+            "0.15%"
+        ]
+    },
+    "The Internexus Group Limited": {
+        "Total_numbers": [
+            8,
+            "0.05%"
+        ]
+    },
+    "other": {
+        "Total_numbers": [
+            86,
+            "0.49%"
+        ]
+    },
+    "Pure Broadband Ltd": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Gamma Telecom Limited": {
+        "Total_numbers": [
+            17,
+            "0.1%"
+        ]
+    },
+    "Centurylink Communications UK Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Lycatel Distribution Uk Limited": {
+        "Total_numbers": [
+            27,
+            "0.15%"
+        ]
+    },
+    "Gamma Telecom Holdings Ltd": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Cablecom Networking": {
+        "Total_numbers": [
+            8,
+            "0.05%"
+        ]
+    },
+    "Virgin Media Business": {
+        "Total_numbers": [
+            24,
+            "0.14%"
+        ]
+    },
+    "Kcom": {
+        "Total_numbers": [
+            123,
+            "0.7%"
+        ]
+    },
+    "Quickline Communications Limited": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Be Un Limited": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Origin Broadband Ltd": {
+        "Total_numbers": [
+            21,
+            "0.12%"
+        ]
+    },
+    "Cogent Communications Group,  Inc.": {
+        "Total_numbers": [
+            7,
+            "0.04%"
+        ]
+    },
+    "Exponential-e": {
+        "Total_numbers": [
+            9,
+            "0.05%"
+        ]
+    },
+    "Razorblue Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Vodafone": {
+        "Total_numbers": [
+            67,
+            "0.38%"
+        ]
+    },
+    "RIGNET AS": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Vectone Mobile Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "RM Education Ltd": {
+        "Total_numbers": [
+            6,
+            "0.03%"
+        ]
+    },
+    "Hyperoptic Ltd": {
+        "Total_numbers": [
+            15,
+            "0.09%"
+        ]
+    },
+    "Zen Internet Ltd": {
+        "Total_numbers": [
+            24,
+            "0.14%"
+        ]
+    },
+    "Digital Ocean": {
+        "Total_numbers": [
+            6,
+            "0.03%"
+        ]
+    },
+    "UK Broadband Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Hybrid Access Technologies Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Venus Business Communications Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "VoiceHost Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Luminet Solutions Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Easynet Enterprise Services Limited": {
+        "Total_numbers": [
+            6,
+            "0.03%"
+        ]
+    },
+    "Connexin Limited": {
+        "Total_numbers": [
+            17,
+            "0.1%"
+        ]
+    },
+    "Hydra Communications Ltd": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Community Fibre Limited": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "VData Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "WightFibre Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Adapt Services Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Net365 Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Eclipse Internet": {
+        "Total_numbers": [
+            11,
+            "0.06%"
+        ]
+    },
+    "Jisc Services Limited": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Evrocom.uk Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Persimmon Homes Ltd.": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "CTR Services Uk": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Highland Network Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Dummy Organisation Object": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "SoftLayer Technologies": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "iDAQ Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Nasstar Group Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Wifinity Ltd": {
+        "Total_numbers": [
+            7,
+            "0.04%"
+        ]
+    },
+    "FastNet International Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Legaco Networks B.V.": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Contingency Networks Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "AwellConnected.Com": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Premier Choice Telecom Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Icomera AB": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Pure Broadband (infrastructure) Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Sota Solutions Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Ask4 Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Broadband for the Rural North Limited.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "IDE Group Connect Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Claranet Ltd": {
+        "Total_numbers": [
+            6,
+            "0.03%"
+        ]
+    },
+    "Independent Fibre Networks": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Redcentric Managed Solutions Limited": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Block Solutions Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "EliteWork LLC": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Aspire Technology Solutions Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Swains Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "OrbitalNet Ltd": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Wavenet Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Tfm Networks Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "SunGard Availability Services (UK) Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Voiceflex Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Level 3 Communications": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Fluency Communications Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Welsh Government": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "OVH SAS": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Wightfibre": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Air Broadband Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Go Internet Ltd": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "H1 Telekom": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Zscaler": {
+        "Total_numbers": [
+            5,
+            "0.03%"
+        ]
+    },
+    "Entanet": {
+        "Total_numbers": [
+            10,
+            "0.06%"
+        ]
+    },
+    "Wirelesslogic Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Cogent Communications": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Gigaclear Limited": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Verizon UK Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "The Networking People (TNP) Limited": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Gamma Telecom DSL Services": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Man Investments Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Clouvider Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Buz Broadband Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "UltraNetworks": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Solway Communications Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "MLL Telecom Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Independent Fibre Networks Limited": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "Virtual1 Limited": {
+        "Total_numbers": [
+            3,
+            "0.02%"
+        ]
+    },
+    "ICUK Computing Services Limited": {
+        "Total_numbers": [
+            4,
+            "0.02%"
+        ]
+    },
+    "Timico Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Vive Technologies Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "CustodianDC Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Internetty Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Telia Company": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "UK2.NET": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Scothosts Limited": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Poundbury Systems Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "University of Leicester": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "De Montfort University": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "C.C.S. (Leeds) Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "WiSpire Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Mother Technologies Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Six Degrees Technology Group Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Airband Community Internet Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "ITS Technology Group": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Canal S SRL": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Purefibre Internet Ltd.": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "Awareness Software Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "CenturyLink": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "STIX Internet Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "ChunkyChips.net Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Interoute Managed Services UK Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "5G Communications Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Durham County Council": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "COLT Technology Services Group Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Gamma Network Solution Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "SSE PLC": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "euNetworks GmbH": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Spitfire Network Services Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Idaq Networks Ltd.": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Plan.com": {
+        "Total_numbers": [
+            2,
+            "0.01%"
+        ]
+    },
+    "web2objects GmbH": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Telstra Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Wightfibre Wireless": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Beacon Broadband LTD": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Vaioni Group Ltd": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Aga Khan University - Institute for the": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "BT IT Services Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "GCI Network Solutions Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Hampshire County Council": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    },
+    "Convergence (group Networks) Limited": {
+        "Total_numbers": [
+            1,
+            "0.01%"
+        ]
+    }
+}
