@@ -5,7 +5,7 @@
 3. Run ```__main__.py``` without arguments to parse
 4. As result ```you'll get data-{current_date}({current_time}).json``` file
 
-# Get and sort mobile number by carrier name
+# Get and sort mobile numbers by carrier name
 1. Put mobile numbers to ```numbers.txt``` without dialing (country) code
 2. Run ```__main__.py``` with argument of country code to which the number belongs
 3. Numbers and carriers will be saved in ```data``` folder
